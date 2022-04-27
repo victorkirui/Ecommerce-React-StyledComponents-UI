@@ -9,7 +9,6 @@ const Wrapper = styled.div`
   width: 100vw;
   height: 90vh;
   overflow: hidden;
-  position: absolute;
 `;
 
 const initialState = {
